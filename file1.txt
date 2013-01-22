@@ -1,1 +1,4 @@
-new line
+I have to do a hotfix
+So, in order to do that,
+I have to change this lines in this file
+Captain Obvious strikes again!
